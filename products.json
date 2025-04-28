@@ -1,0 +1,103 @@
+[
+    {
+      "model": "myapp.product",
+      "pk": 1,
+      "fields": {
+        "name": "Classic White T-Shirt",
+        "description": "A timeless white t-shirt made from 100% combed cotton. Perfect for everyday wear.",
+        "image": "",
+        "price": "19.99"
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 2,
+      "fields": {
+        "name": "Blue Denim Jeans",
+        "description": "Slim-fit jeans crafted from stretch denim for comfort and style.",
+        "image": "",
+        "price": "49.99"
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 3,
+      "fields": {
+        "name": "Leather Wallet",
+        "description": "Genuine leather bifold wallet with 6 card slots and an ID window.",
+        "image": "",
+        "price": "29.50"
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 4,
+      "fields": {
+        "name": "Canvas Backpack",
+        "description": "Durable canvas backpack with padded straps and a laptop compartment.",
+        "image": "",
+        "price": "59.00"
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 5,
+      "fields": {
+        "name": "Running Sneakers",
+        "description": "Lightweight running shoes with breathable mesh upper and cushioned sole.",
+        "image": "",
+        "price": "75.20"
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 6,
+      "fields": {
+        "name": "Stainless Steel Water Bottle",
+        "description": "Insulated 500 ml bottle keeps drinks cold for 24 hours or hot for 12 hours.",
+        "image": "",
+        "price": "24.00"
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 7,
+      "fields": {
+        "name": "Noise-Cancelling Headphones",
+        "description": "Over-ear wireless headphones with active noise cancellation and 20 h battery life.",
+        "image": "",
+        "price": "129.99"
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 8,
+      "fields": {
+        "name": "Smart Watch",
+        "description": "Touchscreen smartwatch with heart rate monitor, GPS, and notification sync.",
+        "image": "",
+        "price": "199.00"
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 9,
+      "fields": {
+        "name": "Portable Bluetooth Speaker",
+        "description": "Compact speaker with deep bass and 10 h playtime, IPX5 water resistant.",
+        "image": "",
+        "price": "45.75"
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 10,
+      "fields": {
+        "name": "Fleece Hoodie",
+        "description": "Cozy fleece-lined hoodie with kangaroo pocket and drawstring hood.",
+        "image": "",
+        "price": "39.90"
+      }
+    }
+  ]
+  
